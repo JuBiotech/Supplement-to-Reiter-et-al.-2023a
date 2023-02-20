@@ -1,0 +1,27 @@
+Parameter for scan evaluation:
+
+Preprocessing:
+pre_signal_noise = 10
+pre_precision = 20
+pre_list_relevant = []
+
+Univariate analysis:
+uv_alpha_univariate = 0.05
+uv_decision_tree = False
+uv_paired_samples = True
+uv_correction = 'FDR' 
+
+Multivariate analysis:
+mv_scaling = True
+mv_scaling_method = 'range'
+mv_cv_iterator = 'kfold'
+mv_cv_stratified = True
+mv_cv_repeated = True
+mv_cv_kfold = 7
+mv_cv_repetition = 2
+
+Cluster analysis:
+cluster_threshold_kruskal = True
+cluster_threshold_beta = True
+cluster_threshold_vip = True
+cluster_threshold_vip_relevant = False
