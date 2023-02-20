@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/604218880.svg)](https://zenodo.org/badge/latestdoi/604218880)
+
 # Supplement code
 
 __Microbial Production of L-Histidine with Corynebacterium glutamicum in minimal media__
