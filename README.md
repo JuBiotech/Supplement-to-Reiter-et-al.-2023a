@@ -2,7 +2,7 @@
 
 # Supplement code
 
-__Microbial Production of L-Histidine with Corynebacterium glutamicum in minimal media__
+__Rapid exometabolome footprinting combined with multivariate statistics: a powerful tool for bioprocess optimization__
 
 Engineering in Life Sciences
 
